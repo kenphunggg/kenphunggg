@@ -1,18 +1,13 @@
-# Hello World
-
 ## About me
 
 - 🌱 I am currently working on and developing my programming skills.
 - 🏫 Hanoi University of Science and Technology, Sep 2021 - now
 - 📫 quangthaiphung29112003@gmail.com
-- 🎮 CS2, Valorant, Tft player
 
 ## Connect with me
 
 ![Static Badge](https://img.shields.io/badge/FACEBOOK-passing?style=for-the-badge&logo=facebook&logoColor=%23ffffff&color=%230866FF&link=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100027436714562)
 ![Static Badge](https://img.shields.io/badge/INSTAGRAM-passing?style=for-the-badge&logo=instagram&logoColor=%23ffffff&color=%23FF0069&link=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100027436714562)
-![Static Badge](https://img.shields.io/badge/STEAM-passing?style=for-the-badge&logo=steam&logoColor=%23ffffff&color=%23000000&link=https%3A%2F%2Fsteamcommunity.com%2Fid%2Fthaiphunggg%2F)
-
 ## Tech Stack
 
 ![Static Badge](https://img.shields.io/badge/LINUX-passing?style=for-the-badge&logo=linux&logoColor=%23000000&color=%23FCC624) 
